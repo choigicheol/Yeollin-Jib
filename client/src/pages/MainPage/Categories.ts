@@ -34,6 +34,7 @@ const subCategory1: SubCategories[] = [
   { id: 18, name: "거울", isSelect: false },
   { id: 19, name: "기타", isSelect: false },
 ];
+
 // 디지털기기
 const subCategory2: SubCategories[] = [
   { id: 20, name: "휴대폰", isSelect: false },
