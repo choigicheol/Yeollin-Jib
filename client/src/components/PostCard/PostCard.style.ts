@@ -130,7 +130,7 @@ export const ProfileBox = styled.div`
   .User_Name {
     font-size: 14px;
     margin-left: 7px;
-    width: 150px;
+    width: 130px;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
